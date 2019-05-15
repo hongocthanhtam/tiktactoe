@@ -49,3 +49,9 @@ ul {
 .game-info {
   margin-left: 20px;
 }
+.square-green {
+  color: green;
+}
+.square-red {
+  color: red;
+}

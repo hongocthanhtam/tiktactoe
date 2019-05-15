@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Square from "./issets/Game";
+import Game from "./elements/Game";
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a> */}
-        <Square />
+        <Game />
       </header>
     </div>
   );
